@@ -1,0 +1,2 @@
+Bước 1: Render lấy các item trong mảng
+Bước 2: Thêm item todo
